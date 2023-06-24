@@ -1,2 +1,2 @@
-stopwords
+python -m nltk.downloader stopwords
 punkt
